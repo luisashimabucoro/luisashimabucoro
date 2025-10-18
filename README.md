@@ -1,20 +1,12 @@
-<!-- ### Hi there 👋 -->
+### 👋 Introduction
 
-<!--
-**luisashimabucoro/luisashimabucoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm **Luísa Shimabucoro**, and I am currently a CS PhD Student at Stanford.
 
-Here are some ideas to get you started:
+I conduct research on the intersection of machine learning and NLP. I research methods that allow models to not only learn efficiently but also make them more robust and reliable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisashimabucoro&count_private=true&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+[twitter][0] or just ✉️ [Email](mailto:luisashimabucoro@gmail.com)
+ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisashimabucoro&count_private=true&show_icons=true&theme=panda&hide=Procfile)](https://github.com/anuraghazra/github-readme-stats)
+[0]: https://x.com/lushimabucoro
